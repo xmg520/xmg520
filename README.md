@@ -40,4 +40,4 @@
 - [简书](https://www.jianshu.com/u/d10ebb06b1fb)
 - [微博](https://weibo.com/xicb)
 
-> *** 加油哦 ⚡️***
+> ***加油哦 ⚡️***
