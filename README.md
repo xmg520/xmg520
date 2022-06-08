@@ -10,9 +10,6 @@
 - `后端开发` && `拥抱开源` && `规范学习`
 - 🌱 QQ: `OTAzNTYzMDk5=`
 - 💬 call me [![Mail Badge](https://img.shields.io/badge/-rootxmg@163.com-c14438?style=flat&logo=Minutemailer&logoColor=white&link=mailto:rootxmg@163.com)](mailto:joeysiwei@gmail.com)
-- 💬 莫忘少年凌云志,
-- 💬 曾许天下第一流。
-
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
